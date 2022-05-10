@@ -1,0 +1,31 @@
+.loginBox-grid {
+  height: 230px;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  border: solid;
+  border-radius: 10px;
+}
+.grid-form {
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: left;
+}
+.text-grid {
+  width: 98%;
+  padding-right: 10px;
+  margin-right: 0px;
+}
+.loginClick {
+  background-color: blue;
+  color: white;
+  margin-top: 20px;
+}
+
+.button-grid {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-column-gap: 10px;
+  justify-content: center;
+  margin-top: 5px;
+}

@@ -1,0 +1,15 @@
+.description {
+  width: 250px;
+  padding: 15px;
+}
+.main-div {
+  height: 60px;
+  width: 100%;
+  background-color: blue;
+  margin-bottom: 20px;
+}
+.descr-btn {
+  float: right;
+  margin-top: 15px !important;
+  margin-right: 15px !important;
+}

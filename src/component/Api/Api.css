@@ -1,0 +1,49 @@
+.Grid-box {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 200px;
+  height: 250px;
+}
+.Box {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.paper-grid {
+  display: grid;
+}
+.card {
+  min-width: 400px;
+}
+.title {
+  font-size: 15px;
+}
+.pos {
+  margin-bottom: 12px;
+}
+.img-grid {
+  display: grid;
+  grid-template-columns: 50px 150px auto;
+
+  align-items: center;
+
+  align-content: center;
+}
+.watchbutton {
+  margin-top: 25px;
+  width: 100%;
+}
+.grid-img {
+  width: 80px;
+  height: 160px;
+  margin-left: 8px;
+  margin-right: 8px;
+  justify-self: center;
+}
+.arrow-grid {
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
